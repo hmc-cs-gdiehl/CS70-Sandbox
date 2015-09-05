@@ -1,4 +1,4 @@
 # CS70-Sandbox
 Grace Diehl and Sangheetha Naidu
 
-Hi, Grace!
+Hello there, Grace!
